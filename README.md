@@ -11,6 +11,7 @@ to db. Then extracts the required data and saves it to data.csv file.
 * send_email.py: Sends the data.csv file to desired email.
 * cleardb.py: Clears the database.
 
+
 ## Usage
 run `database.py` first to setup db ,save data and generate `data.csv` file.
 
@@ -28,3 +29,4 @@ python send_email.py
 * Make the email content more customizable for example user should be able to pull any events.
 * Research on which database is better for this project as the data grows.
 * Add tests
+* Error handling 
