@@ -78,6 +78,3 @@ table_categories()
 table_sources()
 table_geometries()
 load_db()
-
-
-
