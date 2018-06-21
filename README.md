@@ -1,6 +1,9 @@
 ## EONET API
 
-The goal of this project is to read data from EONET API save it to database. And pull data about wildfires, severe storms, and landslides from the past month to a csv file. Email the csv file to an email address.
+The goal of this project is
+* Read data from EONET API save it to database.
+* Pull data about wildfires, severe storms, and landslides from the past month to a csv file.
+* Email the csv file to an email address.
 
 The project contains 3 programs
 * database.py: It will setup the database and create tables. Downloads the data from api and saves them
