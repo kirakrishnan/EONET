@@ -15,3 +15,5 @@ conn.commit()
 
 c.close()
 conn.close()
+
+Print("Data removed from all the tables")
