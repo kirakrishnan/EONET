@@ -11,9 +11,9 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.base import MIMEBase
 from email import encoders
 
-email_user = input("enter the sender email address")#"konety.jayalakshmi@gmail.com"
+email_user = input("enter the sender email address")
 pwd = input("enter the sender password")
-email_send = input("enter the receiver email address")#"aravindakrishnan92@gmail.com"
+email_send = input("enter the receiver email address")
 subject = "Details about the wildfires, severe storms, and landslides from the past month"
 
 msg = MIMEMultipart()
