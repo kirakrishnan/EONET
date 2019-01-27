@@ -29,4 +29,5 @@ python send_email.py
 * Make the email content more customizable for example user should be able to pull any events.
 * Research on which database is better for this project as the data grows.
 * Add tests
-* Error handling 
+* Error handling
+* enhancements
